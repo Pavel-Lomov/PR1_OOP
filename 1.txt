@@ -1,0 +1,8 @@
+новые средства
+Поставляется с Git v2.28.0.
+Поставляется с subversion v1. 14 .0.
+Поставляется с назначенным преемником Git Credential Manager for Windows (GCM for Windows), кросс-платформенным ядром Git Credential Manager. На данный момент это opt-in, с идеей в конечном итоге выйти на пенсию GCM для Windows.
+Поставляется с завитком v7.71.1.
+Поставляется с Perl v5. 32 .0.
+Поставляется с msys2 runtime (git for Windows flavor) на основе Cygwin 3.1.6 (включая улучшения Cygwin 3.1.5).
+Поставляется с GNU Privacy Guard v2.2 .21.
